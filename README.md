@@ -14,3 +14,6 @@ Files are organized as follows:
     - All Countries
     - By Country
     - By Region/Subregion
+
+Hoping to add Postal Codes but am having trouble finding GeoJsons for Postal Codes in all Countries.
+Let me know you find this and I will add it to this repository!
