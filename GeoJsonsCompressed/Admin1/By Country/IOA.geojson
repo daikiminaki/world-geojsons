@@ -1,0 +1,4 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[96.83619,-12.18206],[96.82154,-12.12656],[96.83058,-12.17995],[96.84523,-12.19769],[96.8694,-12.18792],[96.83619,-12.18206]]]},"properties":{"ISO3166-1-Alpha-3":"IOA","country":"Indian Ocean Territories","id":"1928","name":"Cocos (Keeling) Islands"}},
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[105.70411,-10.43084],[105.59425,-10.45403],[105.58497,-10.51637],[105.69459,-10.56487],[105.70411,-10.43084]]]},"properties":{"ISO3166-1-Alpha-3":"IOA","country":"Indian Ocean Territories","id":"2652","name":"Christmas Island"}}
+]}

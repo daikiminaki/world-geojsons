@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"MultiPolygon","coordinates":[[[[-64.56786,18.33739],[-64.56945,18.35798],[-64.60302,18.35562],[-64.56786,18.33739]]],[[[-64.5272,18.44912],[-64.6417,18.45116],[-64.71413,18.3862],[-64.65969,18.38307],[-64.5272,18.44912]]],[[[-64.32604,18.51195],[-64.41539,18.51195],[-64.44335,18.44306],[-64.32604,18.51195]]],[[[-64.28506,18.73408],[-64.40856,18.7447],[-64.27074,18.70067],[-64.28506,18.73408]]]]},"properties":{"ISO3166-1-Alpha-3":"VGB","country":"British Virgin Islands","id":null,"name":"British Virgin Islands","region":"Americas","subregion":"Latin America and the Caribbean"}}
+]}

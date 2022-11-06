@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[76.97642,35.57866],[76.77735,35.64611],[77.04897,35.11044],[77.80035,35.49541],[76.97642,35.57866]]]},"properties":{"ISO3166-1-Alpha-3":"KAS","country":"Siachen Glacier","id":null,"name":"Kashmir"}}
+]}

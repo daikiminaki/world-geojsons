@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[73.73512,-53.1124],[73.56422,-53.01678],[73.23601,-52.98203],[73.36443,-53.03729],[73.4734,-53.18922],[73.81219,-53.1185],[73.73512,-53.1124]]]},"properties":{"ISO3166-1-Alpha-3":"HMD","country":"Heard Island and McDonald Islands","id":null,"name":"eard Island and McDonald Islands","region":"Oceania","subregion":"Australia and New Zealand"}}
+]}

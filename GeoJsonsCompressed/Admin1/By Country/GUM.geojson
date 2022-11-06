@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[144.8864,13.6402],[144.6242,13.43122],[144.68067,13.24677],[144.73561,13.24917],[144.78346,13.42048],[144.95216,13.58686],[144.8864,13.6402]]]},"properties":{"ISO3166-1-Alpha-3":"GUM","country":"Guam","id":null,"name":"Guam","region":"Oceania","subregion":"Micronesia"}}
+]}

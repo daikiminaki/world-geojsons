@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[63.38391,45.56582],[63.79634,45.68664],[63.96713,45.97833],[63.79634,46.27002],[63.38391,46.39084],[62.80064,45.97833],[62.97148,45.68664],[63.38391,45.56582]]]},"properties":{"ISO3166-1-Alpha-3":"KAB","country":"Baykonur Cosmodrome","id":null,"name":"Baykonur lease in Qyzylorda"}}
+]}

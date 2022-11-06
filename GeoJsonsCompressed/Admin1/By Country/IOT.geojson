@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"MultiPolygon","coordinates":[[[[72.43898,-7.34026],[72.42018,-7.30389],[72.35768,-7.26832],[72.42604,-7.32293],[72.43287,-7.43222],[72.48463,-7.37591],[72.43287,-7.42539],[72.43898,-7.34026]]],[[[72.47535,-7.3528],[72.49464,-7.29616],[72.43971,-7.22674],[72.4865,-7.30242],[72.47535,-7.3528]]]]},"properties":{"ISO3166-1-Alpha-3":"IOT","country":"British Indian Ocean Territory","id":null,"name":"British Indian Ocean Territory","region":"Africa","subregion":"Sub-Saharan Africa"}}
+]}

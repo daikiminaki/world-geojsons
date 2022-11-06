@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-169.85114,-18.9651],[-169.93371,-19.0136],[-169.89892,-19.14275],[-169.78291,-19.06894],[-169.85114,-18.9651]]]},"properties":{"ISO3166-1-Alpha-3":"NIU","country":"Niue","id":"5481","name":"Niue","region":"Oceania","subregion":"Polynesia"}}
+]}

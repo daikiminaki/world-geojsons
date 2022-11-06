@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-62.83886,17.88198],[-62.79166,17.91547],[-62.86612,17.92914],[-62.83886,17.88198]]]},"properties":{"ISO3166-1-Alpha-3":"BLM","country":"Saint Barthelemy","id":"5113","name":"Saint Barthélemy","region":"Americas","subregion":"Latin America and the Caribbean"}}
+]}

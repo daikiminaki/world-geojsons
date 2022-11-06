@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-5.35839,36.14111],[-5.34203,36.1105],[-5.33877,36.14112],[-5.35839,36.14111]]]},"properties":{"ISO3166-1-Alpha-3":"GIB","country":"Gibraltar","id":null,"name":"Gibraltar","region":"Europe","subregion":"Southern Europe"}}
+]}

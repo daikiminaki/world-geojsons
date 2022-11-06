@@ -1,0 +1,5 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-14.35627,-7.8847],[-14.4064,-7.97389],[-14.29479,-7.94549],[-14.35627,-7.8847]]]},"properties":{"ISO3166-1-Alpha-3":"SHN","country":"Saint Helena","id":"4863","name":"Ascension","region":"Africa","subregion":"Sub-Saharan Africa"}},
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-5.72183,-15.90895],[-5.76374,-16.01572],[-5.65355,-15.96356],[-5.72183,-15.90895]]]},"properties":{"ISO3166-1-Alpha-3":"SHN","country":"Saint Helena","id":"4864","name":"Saint Helena","region":"Africa","subregion":"Sub-Saharan Africa"}},
+{"type":"Feature","geometry":{"type":"MultiPolygon","coordinates":[[[[-9.89538,-40.38641],[-9.94994,-40.30446],[-10.03002,-40.31373],[-9.89538,-40.38641]]],[[[-12.26378,-37.14902],[-12.19127,-37.09051],[-12.2919,-37.05576],[-12.33532,-37.10426],[-12.26378,-37.14902]]]]},"properties":{"ISO3166-1-Alpha-3":"SHN","country":"Saint Helena","id":"4865","name":"Tristan da Cunha","region":"Africa","subregion":"Sub-Saharan Africa"}}
+]}

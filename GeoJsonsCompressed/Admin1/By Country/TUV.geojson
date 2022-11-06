@@ -1,0 +1,4 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"MultiPolygon","coordinates":[[[[179.20973,-8.52996],[179.21754,-8.5206],[179.19939,-8.46063],[179.20411,-8.51898],[179.19125,-8.54209],[179.20973,-8.52996]]],[[[176.14039,-5.68719],[176.12525,-5.67913],[176.14845,-5.70672],[176.14039,-5.68719]]]]},"properties":{"ISO3166-1-Alpha-3":"TUV","country":"Tuvalu","id":null,"name":"Tuvalu","region":"Oceania","subregion":"Polynesia"}},
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[177.17156,-7.29127],[177.16171,-7.29404],[177.16684,-7.29656],[177.17156,-7.29127]]]},"properties":{"ISO3166-1-Alpha-3":"TUV","country":"Tuvalu","id":"99?","name":null,"region":"Oceania","subregion":"Polynesia"}}
+]}

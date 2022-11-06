@@ -1,0 +1,5 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-64.9285,18.38037],[-65.04149,18.35366],[-64.84008,18.31749],[-64.9285,18.38037]]]},"properties":{"ISO3166-1-Alpha-3":"VIR","country":"United States Virgin Islands","id":"4868","name":"Saint Thomas","region":"Americas","subregion":"Latin America and the Caribbean"}},
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-64.70099,18.34298],[-64.66039,18.33672],[-64.74696,18.37359],[-64.80129,18.32825],[-64.70401,18.30331],[-64.70099,18.34298]]]},"properties":{"ISO3166-1-Alpha-3":"VIR","country":"United States Virgin Islands","id":"4869","name":"Saint John","region":"Americas","subregion":"Latin America and the Caribbean"}},
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-64.5594,17.75161],[-64.87645,17.77586],[-64.89517,17.68277],[-64.5594,17.75161]]]},"properties":{"ISO3166-1-Alpha-3":"VIR","country":"United States Virgin Islands","id":"4870","name":"Saint Croix","region":"Americas","subregion":"Latin America and the Caribbean"}}
+]}

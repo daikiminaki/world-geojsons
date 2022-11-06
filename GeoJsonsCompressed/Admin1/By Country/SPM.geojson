@@ -1,0 +1,4 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-56.15095,46.79365],[-56.24031,46.76569],[-56.16808,46.75727],[-56.15095,46.79365]]]},"properties":{"ISO3166-1-Alpha-3":"SPM","country":"Saint Pierre and Miquelon","id":"4866","name":"Saint-Pierre","region":"Americas","subregion":"Northern America"}},
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-56.27379,46.89545],[-56.35021,46.99461],[-56.28034,46.98969],[-56.25333,47.0537],[-56.36628,47.1402],[-56.35851,46.78075],[-56.24926,46.84227],[-56.27379,46.89545]]]},"properties":{"ISO3166-1-Alpha-3":"SPM","country":"Saint Pierre and Miquelon","id":"4867","name":"Miquelon-Langlade","region":"Americas","subregion":"Northern America"}}
+]}

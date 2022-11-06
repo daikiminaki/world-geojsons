@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"MultiPolygon","coordinates":[[[[-75.18396,19.93359],[-75.16019,19.97065],[-75.23286,19.90005],[-75.18396,19.93359]]],[[[-75.09495,19.97158],[-75.16192,19.89114],[-75.09501,19.89723],[-75.09495,19.97158]]]]},"properties":{"ISO3166-1-Alpha-3":"USG","country":"US Naval Base Guantanamo Bay","id":null,"name":"Guantanamo Bay USNB"}}
+]}

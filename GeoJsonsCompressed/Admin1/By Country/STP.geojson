@@ -1,0 +1,4 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[6.68141,0.40713],[6.53305,0.34813],[6.47088,0.26789],[6.52662,0.02412],[6.66,0.10733],[6.75652,0.25007],[6.7461,0.33808],[6.68141,0.40713]]]},"properties":{"ISO3166-1-Alpha-3":"STP","country":"Sao Tome and Principe","id":"4861","name":"São Tomé","region":"Africa","subregion":"Sub-Saharan Africa"}},
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[7.46274,1.67455],[7.38526,1.69233],[7.33253,1.56533],[7.40138,1.5312],[7.46274,1.67455]]]},"properties":{"ISO3166-1-Alpha-3":"STP","country":"Sao Tome and Principe","id":"4862","name":"Príncipe","region":"Africa","subregion":"Sub-Saharan Africa"}}
+]}

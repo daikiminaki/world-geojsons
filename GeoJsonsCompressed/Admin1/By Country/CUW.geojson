@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-68.78075,12.09781],[-69.16613,12.38784],[-69.15954,12.29336],[-68.97777,12.12458],[-68.73974,12.05305],[-68.78075,12.09781]]]},"properties":{"ISO3166-1-Alpha-3":"CUW","country":"Curaçao","id":"5151","name":"Curaçao","region":"Americas","subregion":"Latin America and the Caribbean"}}
+]}

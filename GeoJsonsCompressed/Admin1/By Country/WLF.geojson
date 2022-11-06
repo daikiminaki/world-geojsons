@@ -1,0 +1,5 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-178.13077,-14.25555],[-178.18574,-14.24822],[-178.12655,-14.31315],[-178.13077,-14.25555]]]},"properties":{"ISO3166-1-Alpha-3":"WLF","country":"Wallis and Futuna","id":"4995","name":"Sigave","region":"Oceania","subregion":"Polynesia"}},
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-176.15547,-13.20892],[-176.19957,-13.29062],[-176.15949,-13.35027],[-176.15547,-13.20892]]]},"properties":{"ISO3166-1-Alpha-3":"WLF","country":"Wallis and Futuna","id":"4996","name":"`Uvea","region":"Oceania","subregion":"Polynesia"}},
+{"type":"Feature","geometry":{"type":"MultiPolygon","coordinates":[[[[-178.00349,-14.3388],[-178.0677,-14.36061],[-178.0242,-14.37859],[-178.00349,-14.3388]]],[[[-178.12655,-14.31315],[-178.04674,-14.31943],[-178.13077,-14.25555],[-178.12655,-14.31315]]]]},"properties":{"ISO3166-1-Alpha-3":"WLF","country":"Wallis and Futuna","id":"4997","name":"Alo","region":"Oceania","subregion":"Polynesia"}}
+]}

@@ -1,0 +1,7 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-170.69263,-14.31482],[-170.56725,-14.25856],[-170.72151,-14.28924],[-170.69263,-14.31482]]]},"properties":{"ISO3166-1-Alpha-3":"ASM","country":"American Samoa","id":"4998","name":"Eastern","region":"Oceania","subregion":"Polynesia"}},
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-169.44013,-14.24529],[-169.54267,-14.23675],[-169.52282,-14.27093],[-169.44013,-14.24529]]]},"properties":{"ISO3166-1-Alpha-3":"ASM","country":"American Samoa","id":"4999","name":"Manu's","region":"Oceania","subregion":"Polynesia"}},
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-168.16157,-14.53289],[-168.16047,-14.52093],[-168.17309,-14.5237],[-168.16157,-14.53289]]]},"properties":{"ISO3166-1-Alpha-3":"ASM","country":"American Samoa","id":"5000","name":"Rose Atoll","region":"Oceania","subregion":"Polynesia"}},
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-171.07282,-11.0525],[-171.08564,-11.05136],[-171.08153,-11.06609],[-171.07282,-11.0525]]]},"properties":{"ISO3166-1-Alpha-3":"ASM","country":"American Samoa","id":"5001","name":"Swain's Island","region":"Oceania","subregion":"Polynesia"}},
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[-170.69263,-14.31482],[-170.72151,-14.28924],[-170.83125,-14.31943],[-170.74865,-14.37469],[-170.69263,-14.31482]]]},"properties":{"ISO3166-1-Alpha-3":"ASM","country":"American Samoa","id":"5002","name":"Western","region":"Oceania","subregion":"Polynesia"}}
+]}
